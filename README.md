@@ -1,4 +1,4 @@
-# Projeto_banco_de_dados
+# Projeto_biblioteca
 <h4 align=center>:construction: Projeto em desenvolvimento :construction:<h4>
 
 Projeto da disciplina de banco de dados, trabalho feito no Colégio Estadual Góes Calmon pelos alunos do 3º ano de Redes.
