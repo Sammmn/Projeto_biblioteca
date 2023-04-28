@@ -1,9 +1,12 @@
+# Projeto de gerenciamento para a biblioteca (Empréstimo de livros)
+
+![37D55286-B4A3-44D6-87AF-EDD59846FC72](https://user-images.githubusercontent.com/120694081/235142543-74fe8d80-40d7-4783-a863-a0f78900a78c.PNG)
 
 
 ## Sobre o projeto
 Projeto da disciplina Banco de Dados, trabalho feito no Colégio Estadual Góes Calmon, pelos alunos do 3º ano de Redes.
 
-### Problema
+## Problema
 A biblioteca do nosso colégio, não utiliza nenhum sistema digital e organizado para gerenciar o empréstimo de livros para alunos, o que causa mais trabalho para a funcionária responsável por este empréstimo e abre portas para possíveis furtos.
 
 ### Hipótese de solução
