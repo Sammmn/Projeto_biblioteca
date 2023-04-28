@@ -1,6 +1,4 @@
-# Projeto de gerenciamento para a biblioteca (Empréstimo de livros)
 
-<h4 align=center>:construction: Projeto em desenvolvimento :construction:<h4>
 
 ## Sobre o projeto
 Projeto da disciplina Banco de Dados, trabalho feito no Colégio Estadual Góes Calmon, pelos alunos do 3º ano de Redes.
