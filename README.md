@@ -15,6 +15,10 @@ A criação de um sistema digital para o melhor gerenciamento dos empréstimos, 
 Para solucionar o problema, começamos com a modelagem do banco de dados, separando as entidades, os atributos e os relacionamentos entre cada  uma das entidades, para isso criamos um banco de dados no MySQL Workbench.
 
 ## Requisitos funcionais
+Funcionalidades 1: Gerenciamento de Conta, podendo ser dos alunos ou professores.
+Funcionalidades 2: Armazenamento do úsuário, como id, data de nascimento, 
+Funcionalidades 3: 
+Funcionalidades 4: 
 
 ## Integrantes do grupo
 Samuel Marques, João Pedro, Daiana Pinto e Raissa Soares
