@@ -1,4 +1,6 @@
 # Projeto_banco_de_dados
+<h4 align=center>:construction: Projeto em desenvolvimento :construction:<h4>
+
 Projeto da disciplina de banco de dados, trabalho feito no Colégio Estadual Góes Calmon pelos alunos do 3º ano de Redes.
 
 Integrantes do grupo: Samuel Marques, João Pedro, Daiana Pinto e Raissa Soares
@@ -10,23 +12,3 @@ Projeto de gerenciamento para a biblioteca (Empréstimo de livros):
 - Hipótese de solução: A criação de um sistema digital para o melhor gerenciamento dos empréstimos, para isso seriam necessários os dados de cada aluno (nome, cpf, telefone, número da matrícula e a turma) bem como a data que este empréstimo foi realizado e o prazo para a devolução do livro, também seria necessário saber qual livro o aluno pegou, para que não haja uma devolução incorreta.
 
 - Descrição do projeto: Para solucionar o problema, começamos com a modelagem do banco de dados, separando as entidades, os atributos e os relacionamentos entre cada  uma das entidades, para isso criamos um banco de dados no MySQL Workbench.
-
-Entidades:
-
-Aluno(atributos): id_aluno, id_escola, nome, CPF, matricula, telefone, turma.
-
-Livro: id_livro, id_editora, título, edição, autor, editora, data_publicacao.
-
-Responsável (bibliotecária): nome, CPF, telefone.
-
-Empréstimo: data, ID_livro, tel_bibliotecaria, ID_aluno, data_limite.
-
-Livro_autor: id_livro, id_autor.
-
-Autor: id_autor, nome.
-
-Editora: id_editora, id_endereco, nome, CNPJ.
-
-Endereço: id_endereco, logradouro, rua, bairro, CEP.
-
-Escola: id_escola, id_endereco, nome.
