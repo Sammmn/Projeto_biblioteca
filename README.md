@@ -11,16 +11,13 @@ A biblioteca do nosso colégio, não utiliza nenhum sistema digital e organizado
 ### Hipótese de solução
 A criação de um sistema digital para o melhor gerenciamento dos empréstimos, para isso seriam necessários os dados de cada aluno (nome, cpf, telefone, número da matrícula e a turma) bem como a data que este empréstimo foi realizado e o prazo para a devolução do livro, também seria necessário saber qual livro o aluno pegou, para que não haja uma devolução incorreta.
 
-Para solucionar o problema, começamos com a modelagem do banco de dados, separando as entidades, os atributos e os relacionamentos entre cada  uma das entidades, para isso criamos um banco de dados no MySQL Workbench.
+Para solucionar o problema, começamos então, com a modelagem do banco de dados, separando as entidades, os atributos e os relacionamentos entre cada  uma das entidades, para isso criamos um banco de dados no MySQL Workbench.
 
 ## Requisitos funcionais
-<p>RF001: Gerenciamento de Conta, podendo ser dos alunos ou professores.
-<p>RF002: Armazenamento do úsuário, como id, data de nascimento e etc.
-<p>RF003: 
-<p>RF004: 
+RF001: Gerenciamento de Conta, podendo ser dos alunos ou professores.
+RF002: Armazenamento do úsuário, como id, data de nascimento e etc.
+RF003: 
+RF004: 
 
 ## Integrantes do grupo
 Samuel Marques, João Pedro, Daiana Pinto e Raissa Soares
-
-
-
