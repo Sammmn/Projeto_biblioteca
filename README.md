@@ -1,4 +1,4 @@
-# Projeto de gerenciamento para a biblioteca (Empréstimo de livros)
+<h1 align="center">Book Manager
 
 ![Capa](https://user-images.githubusercontent.com/120694081/236442845-4d4ce7c2-628f-4886-83e8-44ee4edf3e39.jpg)
 
