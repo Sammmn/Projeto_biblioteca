@@ -1,11 +1,11 @@
-# Projeto de gerenciamento para a biblioteca (Empréstimo de livros)
+<h1 align="center">Book Manager
 
 ![Capa](https://user-images.githubusercontent.com/120694081/236442845-4d4ce7c2-628f-4886-83e8-44ee4edf3e39.jpg)
 
 ## Sobre o projeto :speech_balloon:
+
 Projeto da disciplina Banco de Dados, trabalho feito no Colégio Estadual Góes Calmon, pelos alunos do 3º ano de Redes.
 
-## Problema :right_anger_bubble:
 A biblioteca do nosso colégio, não utiliza nenhum sistema digital e organizado para gerenciar o empréstimo de livros para alunos, o que causa mais trabalho para a funcionária responsável por este empréstimo e abre portas para possíveis furtos.
 
 ### Hipótese de solução :thought_balloon:
