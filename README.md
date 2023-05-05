@@ -1,7 +1,6 @@
 # Projeto de gerenciamento para a biblioteca (Empréstimo de livros)
 
-![37D55286-B4A3-44D6-87AF-EDD59846FC72](https://user-images.githubusercontent.com/120694081/235142543-74fe8d80-40d7-4783-a863-a0f78900a78c.PNG)
-
+![Capa](https://user-images.githubusercontent.com/120694081/236442845-4d4ce7c2-628f-4886-83e8-44ee4edf3e39.jpg)
 
 ## Sobre o projeto
 Projeto da disciplina Banco de Dados, trabalho feito no Colégio Estadual Góes Calmon, pelos alunos do 3º ano de Redes.
