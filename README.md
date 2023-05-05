@@ -2,7 +2,7 @@
 
 ![Capa](https://user-images.githubusercontent.com/120694081/236442845-4d4ce7c2-628f-4886-83e8-44ee4edf3e39.jpg)
 
-## Sobre o projeto
+## 📁 Sobre o projeto
 Projeto da disciplina Banco de Dados, trabalho feito no Colégio Estadual Góes Calmon, pelos alunos do 3º ano de Redes. Esse projeto tem como finalidade um melhor gerenciamento para a biblioteca em questão de empréstimos de livros. 
 
 ## Problema
