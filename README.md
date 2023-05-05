@@ -5,7 +5,7 @@
 ## Sobre o projeto
 Projeto da disciplina Banco de Dados, trabalho feito no Colégio Estadual Góes Calmon, pelos alunos do 3º ano de Redes. Esse projeto tem como finalidade um melhor gerenciamento para a biblioteca em questão de empréstimos de livros. 
 
-## Problema
+### Problema
 A biblioteca do nosso colégio, não utiliza nenhum sistema digital e organizado para gerenciar o empréstimo de livros para alunos, o que causa mais trabalho para a funcionária responsável por este empréstimo e abre portas para possíveis furtos.
 
 ### Hipótese de solução
