@@ -3,7 +3,7 @@
 ![Capa](https://user-images.githubusercontent.com/120694081/236442845-4d4ce7c2-628f-4886-83e8-44ee4edf3e39.jpg)
 
 ## Sobre o projeto
-Projeto da disciplina Banco de Dados, trabalho feito no Colégio Estadual Góes Calmon, pelos alunos do 3º ano de Redes.
+Projeto da disciplina Banco de Dados, trabalho feito no Colégio Estadual Góes Calmon, pelos alunos do 3º ano de Redes. Esse projeto tem como finalidade um melhor gerenciamento para a biblioteca em questão de empréstimos de livros. 
 
 ## Problema
 A biblioteca do nosso colégio, não utiliza nenhum sistema digital e organizado para gerenciar o empréstimo de livros para alunos, o que causa mais trabalho para a funcionária responsável por este empréstimo e abre portas para possíveis furtos.
@@ -14,10 +14,9 @@ A criação de um sistema digital para o melhor gerenciamento dos empréstimos, 
 Para solucionar o problema, começamos com a modelagem do banco de dados, separando as entidades, os atributos e os relacionamentos entre cada  uma das entidades, para isso criamos um banco de dados no MySQL Workbench.
 
 ## Requisitos funcionais
-<p>RF001: Gerenciamento de Conta, podendo ser dos alunos ou professores.
-<p>RF002: Armazenamento do úsuário, como id, data de nascimento e etc.
-<p>RF003: 
-<p>RF004: 
+* RF001: Gerenciamento de Conta, podendo ser dos alunos ou professores.
+* RF002: Armazenamento do úsuário, como id, data de nascimento e etc.
+* RF003: Formulário de empréstimo e devolução do livro. 
 
 ## Integrantes do grupo
 Samuel Marques, João Pedro, Daiana Pinto e Raissa Soares
