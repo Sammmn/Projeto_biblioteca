@@ -3,7 +3,7 @@
 ![Capa](https://user-images.githubusercontent.com/120694081/236442845-4d4ce7c2-628f-4886-83e8-44ee4edf3e39.jpg)
 
 ## Sobre o projeto
-Projeto da disciplina Banco de Dados, trabalho feito no Colégio Estadual Góes Calmon, pelos alunos do 3º ano de Redes.
+Projeto da disciplina Banco de Dados, trabalho feito no Colégio Estadual Góes Calmon, pelos alunos do 3º ano de Redes. Esse projeto tem como finalidade um melhor gerenciamento para a biblioteca em questão de empréstimos de livros. 
 
 ## Problema
 A biblioteca do nosso colégio, não utiliza nenhum sistema digital e organizado para gerenciar o empréstimo de livros para alunos, o que causa mais trabalho para a funcionária responsável por este empréstimo e abre portas para possíveis furtos.
@@ -17,6 +17,7 @@ Para solucionar o problema, começamos então, com a modelagem do banco de dados
 * RF001: Gerenciamento de Conta, podendo ser dos alunos ou professores.
 * RF002: Armazenamento do úsuário, como id, data de nascimento e etc.
 * RF003: Formulário de empréstimo e devolução do livro. 
+
 
 ## Tecnologias utilizadas
 <a href="https://www.mysql.com/"> <img src="https://user-images.githubusercontent.com/120694081/236445973-4d39d538-10b5-4bfb-ad0e-f5cc48e85195.png" width="95">
