@@ -15,10 +15,10 @@ A criação de um sistema digital para o melhor gerenciamento dos empréstimos, 
 Para solucionar o problema, começamos com a modelagem do banco de dados, separando as entidades, os atributos e os relacionamentos entre cada  uma das entidades, para isso criamos um banco de dados no MySQL Workbench.
 
 ## Requisitos funcionais
-RF001: Gerenciamento de Conta, podendo ser dos alunos ou professores.
-RF002: Armazenamento do úsuário, como id, data de nascimento e etc.
-RF003: 
-RF004: 
+#RF001: Gerenciamento de Conta, podendo ser dos alunos ou professores.
+#RF002: Armazenamento do úsuário, como id, data de nascimento e etc.
+#RF003: 
+#RF004: 
 
 ## Integrantes do grupo
 Samuel Marques, João Pedro, Daiana Pinto e Raissa Soares
