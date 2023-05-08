@@ -24,6 +24,11 @@ Como proposta de solução deste problema, indicamos a criação de um sistema d
 1. Para solucionar o problema, começamos com a análise e definição dos requisitos.
 2. Em seguida, iniciamos a modelagem do banco de dados, separando as entidades, os atributos e os relacionamentos entre cada  uma das entidades, para isso criamos um banco de dados no MySQL Workbench.
 
+## Aplicação:
+
+<h3 align="center"><img width="360" height="550"src="https://user-images.githubusercontent.com/120694081/236948954-d25b61cd-720a-4edd-b2df-cb12d7f23e15.gif"></h3>
+
+
 ## Tecnologias utilizadas :desktop_computer:
 <a href="https://www.mysql.com/"> <img src="https://user-images.githubusercontent.com/120694081/236445973-4d39d538-10b5-4bfb-ad0e-f5cc48e85195.png" width="95">
 
