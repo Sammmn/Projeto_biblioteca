@@ -1,6 +1,6 @@
-<h1 align="center">Book Manager
+<h1 align="center">:books: Bookmanager :books:</h1>
 
-![Capa](https://user-images.githubusercontent.com/120694081/236442845-4d4ce7c2-628f-4886-83e8-44ee4edf3e39.jpg)
+<h3 align="center"><img width="780px" height="380px" src="https://user-images.githubusercontent.com/120694081/236944274-610c3855-eb6f-4de4-b3a2-a71bd13ccf99.gif"></h3>
 
 ## Sobre o projeto :speech_balloon:
 
