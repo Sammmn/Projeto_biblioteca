@@ -1,6 +1,6 @@
 <h1 align="center">:books: Bookmanager :books:</h1>
 
-<h3 align="center"><img width="780px" height="380px" src="https://user-images.githubusercontent.com/120694081/236944274-610c3855-eb6f-4de4-b3a2-a71bd13ccf99.gif"></h3>
+<h3 align="center"><img width=780 height=380 src="https://user-images.githubusercontent.com/120694081/236944274-610c3855-eb6f-4de4-b3a2-a71bd13ccf99.gif"></h3>
 
 ## Sobre o projeto :speech_balloon:
 
@@ -33,4 +33,5 @@ Como proposta de solução deste problema, indicamos a criação de um sistema d
 <a href="https://www.mysql.com/"> <img src="https://user-images.githubusercontent.com/120694081/236445973-4d39d538-10b5-4bfb-ad0e-f5cc48e85195.png" width="95">
 
 ## Integrantes do grupo 	:busts_in_silhouette:
-Samuel Marques, João Pedro, Daiana Pinto e Raissa Soares
+|[<img src="https://avatars.githubusercontent.com/u/120694081?v=4" width=85><br><sub>Sammmn</sub>](https://github.com/Sammmn)|[<img src="https://avatars.githubusercontent.com/u/131258341?v=4" width=85><br><sub>Raissa Soares</sub>](https://github.com/raigz1)|[<img src="https://avatars.githubusercontent.com/u/132101450?v=4" width=85><br><sub>Daiana Pinto</sub>](https://github.com/daianaf01)|[<img src="https://avatars.githubusercontent.com/u/130756415?v=4" width=85><br><sub>João Pedro</sub>](https://github.com/Misth3)
+|  :----:  |  :----:  |  :----:  | :----:
